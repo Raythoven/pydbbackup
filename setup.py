@@ -1,5 +1,6 @@
 from setuptools import setup, find_packages
 
+##use readme for long description
 with open('README.rst', encoding='UTF') as f:
     readme = f.read()
 
