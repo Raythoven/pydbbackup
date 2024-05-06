@@ -34,7 +34,7 @@ Local Example w local path:
 Running Tests
 ------------
 
-Run tests locally using ``make`` if vurtualenv is active:
+Run tests locally using ``make`` if virtualenv is active:
 
 ::
 
